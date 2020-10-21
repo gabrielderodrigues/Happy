@@ -50,13 +50,13 @@ visualizar informações dos orfanatos que deseja visitar.
 
 <hr>
 
-<h1>Comandos necessários</h1>
+<h1>Comandos necessários ⌨️</h1>
 <br>
 <ol>
   <li>Digite no terminal</li>
   <ul>
     <li>npm start</li>
-    OBS: Com esse comando você ligará a aplicação.
+    <strong>OBS: Com esse comando você ligará a aplicação.</strong>
   </ul>
 </ol>  
 
