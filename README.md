@@ -24,7 +24,7 @@ visualizar informações dos orfanatos que deseja visitar.
 <ol>
   <li>Diretório</li>
   <ul>
-    <li>cd nlw</li>
+    <li>cd Happy</li>
   </ul> 
   <br>
   <li>Instalar o Npm</li>
