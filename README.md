@@ -1,6 +1,6 @@
 <h1>Descrição 🚀</h1> 
 Projeto desenvolvido pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> na <strong><a href="https://nextlevelweek.com/inscricao/2">Next Level Week #3</a></strong> durante os dias 12 à 18 de Outubro do ano de 2020.
-Happy é uma plataforma de orfanatos onde o usuário poderá encontar orfanatos em diversas partes do brasil ou cadastrar algum orfanato se o mesmo possuir um. Lá o usuário poderá
+Happy é uma plataforma de orfanatos onde o usuário poderá encontrar orfanatos em diversas partes do brasil ou cadastrar algum orfanato se o mesmo possuir um. Lá o usuário poderá
 visualizar informações dos orfanatos que deseja visitar.
 
 <hr>
