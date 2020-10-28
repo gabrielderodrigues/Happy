@@ -12,6 +12,7 @@ visualizar informações dos orfanatos que deseja visitar.
   <li>JavaScript</li>
   <li>Node.js</li>
   <li>SQLite</li>
+  <li>Handlebars</li>
 </ul>
 
 <hr>
